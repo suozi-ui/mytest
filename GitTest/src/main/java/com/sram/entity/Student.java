@@ -9,7 +9,4 @@ public class Student {
     private Integer id;
     private String username;
     private Integer age;
-
-    private Integer UserId;
-    private String aaa;
 }
