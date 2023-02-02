@@ -5,6 +5,8 @@ import lombok.ToString;
 
 @Data
 @ToString
-public class aaa {
+public class ccc {
+
+    private String ddd;
     private String ccc;
 }
